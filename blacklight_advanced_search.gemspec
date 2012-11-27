@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
 
 
   s.add_dependency "rails", "~> 3.0"
-  s.add_dependency "blacklight", "~> 4.0"
+  s.add_dependency "blacklight", "~> 4.0.0.pre7"
   s.add_dependency "parslet"
 
   s.add_development_dependency "rspec"
